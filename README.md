@@ -87,7 +87,7 @@ const abdbhfs = {
             python: ["Django", "Flask"]
         },
         databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        devOps: ["Docker", "CI/CD", "Git"],
+        devOps: ["Docker", "CI/CD", "Git"]
     },
     currentFocus: "Building innovative projects and learning new technologies",
     funFact: "I debug with console.log() more than I'd like to admit! 😄"
