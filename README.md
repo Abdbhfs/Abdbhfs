@@ -47,20 +47,18 @@
 
 ```javascript
 const abdbhfs = {
-    pronouns: "He/Him",
-    code: ["JavaScript", "Python", "Java", "HTML", "CSS"],
+    code: ["PHP", "JavaScript", "HTML", "CSS"],
     askMeAbout: ["web dev", "tech", "coding", "problem solving"],
     technologies: {
         frontEnd: {
-            js: ["React", "Next.js", "Vue"],
-            css: ["Bootstrap", "Tailwind", "Material-UI"]
+            css: ["Bootstrap", "Tailwind"]
         },
         backEnd: {
-            js: ["Node", "Express"],
-            python: ["Django", "Flask"]
+            php: ["Laravel"],
+            js: ["Node"]
         },
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        devOps: ["Docker", "CI/CD", "Git"]
+        databases: ["MySQL", "PostgreSQL"],
+        devOps: ["Docker", "Git"]
     },
     currentFocus: "Building innovative projects and learning new technologies",
     funFact: "I debug with console.log() more than I'd like to admit! 😄"
